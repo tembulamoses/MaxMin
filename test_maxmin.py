@@ -1,4 +1,5 @@
-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- 
 import unittest
 from maxmin import find_max_min
 class MaxMinTest(unittest.TestCase):
